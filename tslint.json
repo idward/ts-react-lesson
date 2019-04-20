@@ -10,7 +10,10 @@
     "prettier": [true, "./prettierrc"],
     "no-shadowed-variable": false,
     "interface-name": false,
-    "member-access": [false]
+    "member-access": [false],
+    "no-debugger": false,
+    "no-console": [false],
+    "semicolon": false
   },
   "rulesDirectory": ["tslint-plugin-prettier"]
 }
