@@ -7,7 +7,7 @@
     "jsx-boolean-value": ["always", { "never": ["exact"] }],
     "jsx-no-lambda": ["always", { "never": ["onClick"] }],
     "object-literal-sort-keys": false,
-    "prettier": [true, "./prettierrc"],
+    "prettier": [true, "./prettier.rc"],
     "no-shadowed-variable": false,
     "interface-name": false,
     "member-access": [false],
